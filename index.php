@@ -4,6 +4,6 @@
  </head>
  <body>
  test - test
-   <?php phpinfo(); ?>
+   <!--?php phpinfo(); ?-->
  </body>
 </html>
