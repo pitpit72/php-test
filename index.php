@@ -3,7 +3,7 @@
   <title>PHP Test</title>
  </head>
  <body>
- test
+ test - test
    <?php phpinfo(); ?>
  </body>
 </html>
